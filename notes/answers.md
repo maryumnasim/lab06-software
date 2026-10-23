@@ -1,0 +1,1 @@
+Difference between sudo apt update and sudo apt upgradesudo apt update:It checks for new updates from the internet.It updates the list of available packages only.It does NOT install anything.sudo apt upgrade:It installs the new versions of packages.It upgrades all installed software to latest version.It needs update to be run first.
